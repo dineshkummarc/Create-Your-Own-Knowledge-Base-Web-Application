@@ -1,4 +1,3 @@
-
 A better documentation and knowledgebase plugin for WordPress
 
 == Description ==
